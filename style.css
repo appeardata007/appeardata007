@@ -1,0 +1,36 @@
+html{
+    box-sizing: border-box;
+    height: 100%;
+}
+body{
+    background-image: linear-gradient(320deg, #47ff6f,#e1eb5f,#2c1b53);
+    
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 5px;
+    text-align: center;
+    border-radius: 10px;
+    background-color: #856ef0;
+}
+p{
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+section{
+    align-items: center;
+    border: #1a1515;
+    border: 10rem;
+    
+}
+footer{
+    background-color: #333;
+}
+nav{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+nav:hover{
+    color: #1a1515;
+}
