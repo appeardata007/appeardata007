@@ -1,0 +1,10 @@
+html{
+    box-sizing: border-box;
+    height: 100%;
+}
+body{
+    background-image: linear-gradient(20deg,#ee3737,#48d4ff);
+}
+a{
+    text-decoration: none;
+}
